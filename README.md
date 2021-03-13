@@ -1,4 +1,4 @@
 # Mapping_Earthquakes
-![](static/images/streets.PNG)
-![](static/images/satellite.PNG)
-![](static/images/dark.PNG)
+![](Earthquake_Challenge/static/images/streets.PNG)
+![](Earthquake_Challenge/static/images/satellite.PNG)
+![](Earthquake_Challenge/static/images/dark.PNG)
